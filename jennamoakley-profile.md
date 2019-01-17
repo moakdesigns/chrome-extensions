@@ -71,7 +71,7 @@
  - [Search Manager](https://chrome.google.com/webstore/detail/ommbgnllpkjnidkcnginhlacffdcdijc) v10.1.3.94: *This extensions lets you to easily switch between search engines directly from the new tab page*
  - [Droplr - Screenshot, Annotate, & Screencast](https://chrome.google.com/webstore/detail/oncaapliomaamlbopdmhmdompfemljhm) v2.2.0: *Screen capture FULL webpage or any part of it. Take screenshots, annotations, screen recordings with audio narration.*
  - [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam) v10.1811.22.11543: *Amazon's official browser extension. By installing you agree to the Conditions of Use at amazon.com/gp/BIT/TOU*
- - [Linky Extension](https://chrome.google.com/webstore/detail/pghdabpagojegpfplckdbnlalpgidikc) v1.3: *Add new links to Linky.*
+ <del>- [Linky Extension](https://chrome.google.com/webstore/detail/pghdabpagojegpfplckdbnlalpgidikc) v1.3: *Add new links to Linky.*</del>
  - [Google Similar Pages](https://chrome.google.com/webstore/detail/pjnfggphgdjblhfjaphkjhfpiiekbbej) v0.6.6.2: *Discover webpages similar to the page you're currently browsing.*
  - [Search Later](https://chrome.google.com/webstore/detail/pmlokaikmdggccdncpbbfhnbdpblkoal) v1.1: *Save Keywords to search them later!*
  - [RoboForm Password Manager](https://chrome.google.com/webstore/detail/pnlccmojcmeohlpggmfnbbiapkmbliob) v8.5.5.13: *RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically*
